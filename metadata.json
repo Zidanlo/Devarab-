@@ -1,0 +1,8 @@
+
+{
+  "name": "DEVARAB | Offensive Security Hub",
+  "description": "أضخم مستودع عربي لأدوات الأمن الأخلاقي، الـ OSINT، واختبار الاختراق المتقدم.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
